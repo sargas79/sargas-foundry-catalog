@@ -14,7 +14,7 @@
       "summary": "Adventure clocks for Pathfinder 2e: progress, countdowns, threats, factions, corruption, alarms, projects and weather fronts."
     },
     {
-      "repo": "through-the-ages",
+      "repo": "sargas-through-the-ages",
       "manifestFile": "module.json",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events."
     },
@@ -39,27 +39,27 @@
       "summary": "Plays and automates JB2A animations directly, without Sequencer or Automated Animations."
     },
     {
-      "repo": "wondrous-spellbook",
+      "repo": "sargas-wondrous-spellbook",
       "manifestFile": "module.json",
       "summary": "A spellbook creator and slot-fill tool for the Pathfinder Second Edition system."
     },
     {
-      "repo": "compendium-manager",
+      "repo": "sargas-compendium-manager",
       "manifestFile": "module.json",
       "summary": "Shares one compendium library between two Pathfinder 2e worlds on the same Foundry installation."
     },
     {
-      "repo": "Victory-Counter",
+      "repo": "sargas-victory-counter",
       "manifestFile": "module.json",
       "summary": "Shared, always-visible progress and threshold tracks for any game system (Foundry v14)."
     },
     {
-      "repo": "Victory-Counter-v13",
+      "repo": "sargas-victory-counter-v13",
       "manifestFile": "module.json",
       "summary": "The Foundry v13 build of Victory Counter: shared progress and threshold tracks for any game system."
     },
     {
-      "repo": "gurps-compendium-content",
+      "repo": "sargas-gurps-compendium-content",
       "manifestFile": "module.json",
       "summary": "GURPS books' text and statistics overlaid onto the GWorld system's compendia, for one table whose members own the books."
     }
