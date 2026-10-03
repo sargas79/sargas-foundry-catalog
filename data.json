@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T15:02:20.655Z",
+  "generatedAt": "2026-10-03T15:29:47.014Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -34,8 +34,8 @@
       "kind": "module",
       "id": "through-the-ages",
       "name": "Through the Ages",
-      "repo": "https://github.com/sargas79/through-the-ages",
-      "manifest": "https://github.com/sargas79/through-the-ages/releases/latest/download/module.json",
+      "repo": "https://github.com/sargas79/sargas-through-the-ages",
+      "manifest": "https://github.com/sargas79/sargas-through-the-ages/releases/latest/download/module.json",
       "version": "2.2.0",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events.",
       "compatibility": {
@@ -98,8 +98,8 @@
       "kind": "module",
       "id": "blizzards-wondrous-spellbook",
       "name": "Blizzard's Wondrous Spellbook",
-      "repo": "https://github.com/sargas79/wondrous-spellbook",
-      "manifest": "https://github.com/sargas79/wondrous-spellbook/releases/latest/download/module.json",
+      "repo": "https://github.com/sargas79/sargas-wondrous-spellbook",
+      "manifest": "https://github.com/sargas79/sargas-wondrous-spellbook/releases/latest/download/module.json",
       "version": "1.2.0",
       "summary": "A spellbook creator and slot-fill tool for the Pathfinder Second Edition system.",
       "compatibility": {
@@ -111,8 +111,8 @@
       "kind": "module",
       "id": "compendium-manager",
       "name": "Compendium Manager",
-      "repo": "https://github.com/sargas79/compendium-manager",
-      "manifest": "https://github.com/sargas79/compendium-manager/releases/latest/download/module.json",
+      "repo": "https://github.com/sargas79/sargas-compendium-manager",
+      "manifest": "https://github.com/sargas79/sargas-compendium-manager/releases/latest/download/module.json",
       "version": "1.0.1",
       "summary": "Shares one compendium library between two Pathfinder 2e worlds on the same Foundry installation.",
       "compatibility": {
@@ -124,8 +124,8 @@
       "kind": "module",
       "id": "victory-counter",
       "name": "Victory Counter",
-      "repo": "https://github.com/sargas79/Victory-Counter",
-      "manifest": "https://github.com/sargas79/Victory-Counter/releases/latest/download/module.json",
+      "repo": "https://github.com/sargas79/sargas-victory-counter",
+      "manifest": "https://github.com/sargas79/sargas-victory-counter/releases/latest/download/module.json",
       "version": "2.4.0",
       "summary": "Shared, always-visible progress and threshold tracks for any game system (Foundry v14).",
       "compatibility": {
@@ -137,8 +137,8 @@
       "kind": "module",
       "id": "victory-counter",
       "name": "Victory Counter",
-      "repo": "https://github.com/sargas79/Victory-Counter-v13",
-      "manifest": "https://github.com/sargas79/Victory-Counter-v13/releases/latest/download/module.json",
+      "repo": "https://github.com/sargas79/sargas-victory-counter-v13",
+      "manifest": "https://github.com/sargas79/sargas-victory-counter-v13/releases/latest/download/module.json",
       "version": "2.3.0",
       "summary": "The Foundry v13 build of Victory Counter: shared progress and threshold tracks for any game system.",
       "compatibility": {
@@ -150,8 +150,8 @@
       "kind": "module",
       "id": "gurps-compendium-content",
       "name": "GURPS Compendium Content",
-      "repo": "https://github.com/sargas79/gurps-compendium-content",
-      "manifest": "https://github.com/sargas79/gurps-compendium-content/releases/latest/download/module.json",
+      "repo": "https://github.com/sargas79/sargas-gurps-compendium-content",
+      "manifest": "https://github.com/sargas79/sargas-gurps-compendium-content/releases/latest/download/module.json",
       "version": "0.23.0",
       "summary": "GURPS books' text and statistics overlaid onto the GWorld system's compendia, for one table whose members own the books.",
       "compatibility": {
