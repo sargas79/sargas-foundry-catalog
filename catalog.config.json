@@ -10,56 +10,67 @@
   "modules": [
     {
       "repo": "sargas-time-bomb",
+      "name": "Sargas Time Bomb",
       "manifestFile": "module.json",
       "summary": "Adventure clocks for Pathfinder 2e: progress, countdowns, threats, factions, corruption, alarms, projects and weather fronts."
     },
     {
       "repo": "sargas-through-the-ages",
+      "name": "Sargas Through the Ages",
       "manifestFile": "module.json",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events."
     },
     {
       "repo": "sargas-encounter-builder",
+      "name": "Sargas Encounter Builder",
       "manifestFile": "module.json",
       "summary": "A Pathfinder 2e GM workspace for party profiles, XP budgets, creature browsing and balanced encounter generation."
     },
     {
       "repo": "sargas-investigation-board",
+      "name": "Sargas Investigation Board",
       "manifestFile": "module.json",
       "summary": "A collaborative pinboard where players pin clues and string them together to work cases as a party."
     },
     {
       "repo": "sargas-dice-set",
+      "name": "Sargas Dice Set",
       "manifestFile": "module.json",
       "summary": "Animated 3D dice for every roll in hand-designed Sargas, Oracle, Spiral Set and Classic styles."
     },
     {
       "repo": "sargas-visual-automation",
+      "name": "Sargas Visual Automation",
       "manifestFile": "module.json",
       "summary": "Plays and automates JB2A animations directly, without Sequencer or Automated Animations."
     },
     {
       "repo": "sargas-wondrous-spellbook",
+      "name": "Sargas Wondrous Spellbook",
       "manifestFile": "module.json",
       "summary": "A spellbook creator and slot-fill tool for the Pathfinder Second Edition system."
     },
     {
       "repo": "sargas-compendium-manager",
+      "name": "Sargas Compendium Manager",
       "manifestFile": "module.json",
       "summary": "Shares one compendium library between two Pathfinder 2e worlds on the same Foundry installation."
     },
     {
       "repo": "sargas-victory-counter",
+      "name": "Sargas Victory Counter",
       "manifestFile": "module.json",
       "summary": "Shared, always-visible progress and threshold tracks for any game system (Foundry v14)."
     },
     {
       "repo": "sargas-victory-counter-v13",
+      "name": "Sargas Victory Counter (Foundry v13)",
       "manifestFile": "module.json",
       "summary": "The Foundry v13 build of Victory Counter: shared progress and threshold tracks for any game system."
     },
     {
       "repo": "sargas-gurps-compendium-content",
+      "name": "Sargas GURPS Compendium Content",
       "manifestFile": "module.json",
       "summary": "GURPS books' text and statistics overlaid onto the GWorld system's compendia, for one table whose members own the books."
     }

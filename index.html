@@ -61,11 +61,12 @@
       background: var(--code-bg); color: var(--text); border: 1px solid var(--border);
       border-radius: 6px; padding: 6px 8px;
     }
-    .manifest button, .manifest a {
+    .manifest-label { font-size: 0.8rem; font-weight: 600; color: var(--muted); white-space: nowrap; }
+    .manifest button {
       font-size: 0.8rem; padding: 6px 10px; border-radius: 6px; border: 1px solid var(--border);
-      background: var(--surface); color: var(--text); cursor: pointer; text-decoration: none; white-space: nowrap;
+      background: var(--surface); color: var(--text); cursor: pointer; white-space: nowrap;
     }
-    .manifest button:hover, .manifest a:hover { border-color: var(--accent); color: var(--accent); }
+    .manifest button:hover { border-color: var(--accent); color: var(--accent); }
     .empty { color: var(--muted); font-style: italic; }
     footer { margin-top: 48px; font-size: 0.85rem; color: var(--muted); }
     footer a, header a { color: var(--accent); }
@@ -119,9 +120,9 @@
           <p class="summary">${esc(item.summary)}</p>
           <div class="compat">${compatText(item.compatibility)}</div>
           <div class="manifest">
+            <span class="manifest-label">Manifest</span>
             <input type="text" readonly value="${esc(item.manifest)}" aria-label="Manifest URL for ${esc(item.name)}">
             <button type="button" data-copy="${esc(item.manifest)}">Copy</button>
-            <a href="${esc(item.manifest)}">Open</a>
           </div>
         </article>`;
     }

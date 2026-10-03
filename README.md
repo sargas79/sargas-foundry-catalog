@@ -6,8 +6,10 @@ manifest URL, one-line description and latest released version.
 
 ## How it works
 
-- `catalog.config.json` lists the repositories to include and a one-line
-  summary for each. Add a new module or system by adding an entry there.
+- `catalog.config.json` lists the repositories to include, with a one-line
+  summary and an optional `name` that overrides the manifest title so the
+  catalog can use standardized names. Add a new module or system by adding an
+  entry there.
 - `scripts/update-catalog.mjs` fetches the latest released manifest of every
   repository (`releases/latest/download/module.json` or `system.json`) and
   writes `data.json`.

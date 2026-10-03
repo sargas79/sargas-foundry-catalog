@@ -33,7 +33,7 @@
     {
       "kind": "module",
       "id": "through-the-ages",
-      "name": "Through the Ages",
+      "name": "Sargas Through the Ages",
       "repo": "https://github.com/sargas79/sargas-through-the-ages",
       "manifest": "https://github.com/sargas79/sargas-through-the-ages/releases/latest/download/module.json",
       "version": "2.2.0",
@@ -46,7 +46,7 @@
     {
       "kind": "module",
       "id": "sargas-encounter-builder",
-      "name": "Sargas - Encounter Builder",
+      "name": "Sargas Encounter Builder",
       "repo": "https://github.com/sargas79/sargas-encounter-builder",
       "manifest": "https://github.com/sargas79/sargas-encounter-builder/releases/latest/download/module.json",
       "version": "0.3.2",
@@ -58,7 +58,7 @@
     {
       "kind": "module",
       "id": "sargas-investigation-board",
-      "name": "Sargas - Investigation Board",
+      "name": "Sargas Investigation Board",
       "repo": "https://github.com/sargas79/sargas-investigation-board",
       "manifest": "https://github.com/sargas79/sargas-investigation-board/releases/latest/download/module.json",
       "version": "1.4.0",
@@ -97,7 +97,7 @@
     {
       "kind": "module",
       "id": "blizzards-wondrous-spellbook",
-      "name": "Blizzard's Wondrous Spellbook",
+      "name": "Sargas Wondrous Spellbook",
       "repo": "https://github.com/sargas79/sargas-wondrous-spellbook",
       "manifest": "https://github.com/sargas79/sargas-wondrous-spellbook/releases/latest/download/module.json",
       "version": "1.2.0",
@@ -110,7 +110,7 @@
     {
       "kind": "module",
       "id": "compendium-manager",
-      "name": "Compendium Manager",
+      "name": "Sargas Compendium Manager",
       "repo": "https://github.com/sargas79/sargas-compendium-manager",
       "manifest": "https://github.com/sargas79/sargas-compendium-manager/releases/latest/download/module.json",
       "version": "1.0.1",
@@ -123,7 +123,7 @@
     {
       "kind": "module",
       "id": "victory-counter",
-      "name": "Victory Counter",
+      "name": "Sargas Victory Counter",
       "repo": "https://github.com/sargas79/sargas-victory-counter",
       "manifest": "https://github.com/sargas79/sargas-victory-counter/releases/latest/download/module.json",
       "version": "2.4.0",
@@ -136,7 +136,7 @@
     {
       "kind": "module",
       "id": "victory-counter",
-      "name": "Victory Counter",
+      "name": "Sargas Victory Counter (Foundry v13)",
       "repo": "https://github.com/sargas79/sargas-victory-counter-v13",
       "manifest": "https://github.com/sargas79/sargas-victory-counter-v13/releases/latest/download/module.json",
       "version": "2.3.0",
@@ -149,7 +149,7 @@
     {
       "kind": "module",
       "id": "gurps-compendium-content",
-      "name": "GURPS Compendium Content",
+      "name": "Sargas GURPS Compendium Content",
       "repo": "https://github.com/sargas79/sargas-gurps-compendium-content",
       "manifest": "https://github.com/sargas79/sargas-gurps-compendium-content/releases/latest/download/module.json",
       "version": "0.23.0",
