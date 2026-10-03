@@ -21,7 +21,7 @@ async function fetchEntry(kind, entry) {
   return {
     kind,
     id: data.id ?? entry.repo,
-    name: data.title ?? entry.repo,
+    name: entry.name ?? data.title ?? entry.repo,
     repo: repoUrl,
     manifest,
     version: data.version ?? null,
