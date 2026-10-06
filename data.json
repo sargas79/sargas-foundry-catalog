@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:42:37.884Z",
+  "generatedAt": "2026-10-06T13:50:03.095Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -157,6 +157,19 @@
       "compatibility": {
         "minimum": "14",
         "verified": "14.367"
+      }
+    },
+    {
+      "kind": "module",
+      "id": "soundfxlibrary",
+      "name": "Sargas SoundFx Library",
+      "repo": "https://github.com/sargas79/sargas-SoundFxLibrary",
+      "manifest": "https://github.com/sargas79/sargas-SoundFxLibrary/releases/latest/download/module.json",
+      "version": "1.1.0",
+      "summary": "A library of sound effects for soundboards, forked from CDeenen's Material Foundry original and maintained for Foundry v13/v14.",
+      "compatibility": {
+        "minimum": "11",
+        "verified": "14"
       }
     }
   ]

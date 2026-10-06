@@ -73,6 +73,12 @@
       "name": "Sargas GURPS Compendium Content",
       "manifestFile": "module.json",
       "summary": "GURPS books' text and statistics overlaid onto the GWorld system's compendia, for one table whose members own the books."
+    },
+    {
+      "repo": "sargas-SoundFxLibrary",
+      "name": "Sargas SoundFx Library",
+      "manifestFile": "module.json",
+      "summary": "A library of sound effects for soundboards, forked from CDeenen's Material Foundry original and maintained for Foundry v13/v14."
     }
   ]
 }
