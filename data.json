@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T13:50:03.095Z",
+  "generatedAt": "2026-10-07T13:26:22.046Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -23,7 +23,7 @@
       "name": "Sargas Time Bomb",
       "repo": "https://github.com/sargas79/sargas-time-bomb",
       "manifest": "https://github.com/sargas79/sargas-time-bomb/releases/latest/download/module.json",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "summary": "Adventure clocks for Pathfinder 2e: progress, countdowns, threats, factions, corruption, alarms, projects and weather fronts.",
       "compatibility": {
         "minimum": "14.366",
@@ -49,10 +49,11 @@
       "name": "Sargas Encounter Builder",
       "repo": "https://github.com/sargas79/sargas-encounter-builder",
       "manifest": "https://github.com/sargas79/sargas-encounter-builder/releases/latest/download/module.json",
-      "version": "0.3.4",
+      "version": "0.4.0",
       "summary": "A Pathfinder 2e GM workspace for party profiles, XP budgets, creature browsing and balanced encounter generation.",
       "compatibility": {
-        "minimum": "14"
+        "minimum": "14",
+        "maximum": "14"
       }
     },
     {
