@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:26:22.046Z",
+  "generatedAt": "2026-10-09T13:19:17.595Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "kind": "module",
-      "id": "through-the-ages",
+      "id": "sargas-through-the-ages",
       "name": "Sargas Through the Ages",
       "repo": "https://github.com/sargas79/sargas-through-the-ages",
       "manifest": "https://github.com/sargas79/sargas-through-the-ages/releases/latest/download/module.json",
-      "version": "2.2.0",
+      "version": "3.0.0",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events.",
       "compatibility": {
         "minimum": "14.366",
@@ -49,7 +49,7 @@
       "name": "Sargas Encounter Builder",
       "repo": "https://github.com/sargas79/sargas-encounter-builder",
       "manifest": "https://github.com/sargas79/sargas-encounter-builder/releases/latest/download/module.json",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "summary": "A Pathfinder 2e GM workspace for party profiles, XP budgets, creature browsing and balanced encounter generation.",
       "compatibility": {
         "minimum": "14",
@@ -88,7 +88,7 @@
       "name": "Sargas Visual Automation",
       "repo": "https://github.com/sargas79/sargas-visual-automation",
       "manifest": "https://github.com/sargas79/sargas-visual-automation/releases/latest/download/module.json",
-      "version": "0.5.0",
+      "version": "0.6.1",
       "summary": "Plays and automates JB2A animations directly, without Sequencer or Automated Animations.",
       "compatibility": {
         "minimum": "14",
