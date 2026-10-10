@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T13:19:17.595Z",
+  "generatedAt": "2026-10-10T12:34:02.776Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -8,7 +8,7 @@
       "name": "GWorld - GURPS 4e",
       "repo": "https://github.com/sargas79/GWorldVTT",
       "manifest": "https://github.com/sargas79/GWorldVTT/releases/latest/download/system.json",
-      "version": "1.67.0",
+      "version": "1.68.0",
       "summary": "A GURPS 4th Edition game system implementing the Basic Set rules for Foundry VTT v14.",
       "compatibility": {
         "minimum": "14",
@@ -36,7 +36,7 @@
       "name": "Sargas Through the Ages",
       "repo": "https://github.com/sargas79/sargas-through-the-ages",
       "manifest": "https://github.com/sargas79/sargas-through-the-ages/releases/latest/download/module.json",
-      "version": "3.0.0",
+      "version": "3.0.2",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events.",
       "compatibility": {
         "minimum": "14.366",
@@ -49,7 +49,7 @@
       "name": "Sargas Encounter Builder",
       "repo": "https://github.com/sargas79/sargas-encounter-builder",
       "manifest": "https://github.com/sargas79/sargas-encounter-builder/releases/latest/download/module.json",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "summary": "A Pathfinder 2e GM workspace for party profiles, XP budgets, creature browsing and balanced encounter generation.",
       "compatibility": {
         "minimum": "14",
@@ -88,7 +88,7 @@
       "name": "Sargas Visual Automation",
       "repo": "https://github.com/sargas79/sargas-visual-automation",
       "manifest": "https://github.com/sargas79/sargas-visual-automation/releases/latest/download/module.json",
-      "version": "0.6.1",
+      "version": "0.6.2",
       "summary": "Plays and automates JB2A animations directly, without Sequencer or Automated Animations.",
       "compatibility": {
         "minimum": "14",
@@ -101,7 +101,7 @@
       "name": "Sargas Wondrous Spellbook",
       "repo": "https://github.com/sargas79/sargas-wondrous-spellbook",
       "manifest": "https://github.com/sargas79/sargas-wondrous-spellbook/releases/latest/download/module.json",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "summary": "A spellbook creator and slot-fill tool for the Pathfinder Second Edition system.",
       "compatibility": {
         "minimum": "14",
