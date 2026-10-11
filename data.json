@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:34:02.776Z",
+  "generatedAt": "2026-10-11T12:52:16.139Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -8,7 +8,7 @@
       "name": "GWorld - GURPS 4e",
       "repo": "https://github.com/sargas79/GWorldVTT",
       "manifest": "https://github.com/sargas79/GWorldVTT/releases/latest/download/system.json",
-      "version": "1.68.0",
+      "version": "1.70.0",
       "summary": "A GURPS 4th Edition game system implementing the Basic Set rules for Foundry VTT v14.",
       "compatibility": {
         "minimum": "14",
@@ -36,7 +36,7 @@
       "name": "Sargas Through the Ages",
       "repo": "https://github.com/sargas79/sargas-through-the-ages",
       "manifest": "https://github.com/sargas79/sargas-through-the-ages/releases/latest/download/module.json",
-      "version": "3.0.2",
+      "version": "3.2.0",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events.",
       "compatibility": {
         "minimum": "14.366",
