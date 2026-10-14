@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:13:52.739Z",
+  "generatedAt": "2026-10-14T11:54:51.070Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -8,7 +8,7 @@
       "name": "GWorld - GURPS 4e",
       "repo": "https://github.com/sargas79/GWorldVTT",
       "manifest": "https://github.com/sargas79/GWorldVTT/releases/latest/download/system.json",
-      "version": "1.72.0",
+      "version": "1.73.0",
       "summary": "A GURPS 4th Edition game system implementing the Basic Set rules for Foundry VTT v14.",
       "compatibility": {
         "minimum": "14",
@@ -36,7 +36,7 @@
       "name": "Sargas Through the Ages",
       "repo": "https://github.com/sargas79/sargas-through-the-ages",
       "manifest": "https://github.com/sargas79/sargas-through-the-ages/releases/latest/download/module.json",
-      "version": "3.2.0",
+      "version": "3.3.0",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events.",
       "compatibility": {
         "minimum": "14.366",
@@ -88,7 +88,7 @@
       "name": "Sargas Visual Automation",
       "repo": "https://github.com/sargas79/sargas-visual-automation",
       "manifest": "https://github.com/sargas79/sargas-visual-automation/releases/latest/download/module.json",
-      "version": "0.6.2",
+      "version": "0.6.3",
       "summary": "Plays and automates JB2A animations directly, without Sequencer or Automated Animations.",
       "compatibility": {
         "minimum": "14",
