@@ -26,6 +26,8 @@ jobs:
           node-version: 22
       - name: Refresh data.json from the latest releases
         run: node scripts/update-catalog.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions[bot]"
