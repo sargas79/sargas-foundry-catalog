@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:28:03.864Z",
+  "generatedAt": "2026-10-16T11:26:30.103Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -179,7 +179,7 @@
       "name": "Cosmere Infusions",
       "repo": "https://github.com/sargas79/sargas-cosmere-infusion",
       "manifest": "https://github.com/sargas79/sargas-cosmere-infusion/releases/latest/download/module.json",
-      "version": "0.1.1",
+      "version": "0.3.1",
       "summary": "Tracks Radiant infusions for the Cosmere RPG system: Investiture infused into objects, characters or yourself by surges, drained each round, topped up, reclaimed and ended.",
       "compatibility": {
         "minimum": "13.346",
