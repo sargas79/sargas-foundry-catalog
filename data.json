@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:26:30.103Z",
+  "generatedAt": "2026-10-17T10:46:28.577Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -179,12 +179,26 @@
       "name": "Cosmere Infusions",
       "repo": "https://github.com/sargas79/sargas-cosmere-infusion",
       "manifest": "https://github.com/sargas79/sargas-cosmere-infusion/releases/latest/download/module.json",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "summary": "Tracks Radiant infusions for the Cosmere RPG system: Investiture infused into objects, characters or yourself by surges, drained each round, topped up, reclaimed and ended.",
       "compatibility": {
         "minimum": "13.346",
         "verified": "13.351",
         "maximum": "13"
+      }
+    },
+    {
+      "kind": "module",
+      "id": "sargas-mythic-powers",
+      "name": "Sargas - Mythic Powers",
+      "repo": "https://github.com/sargas79/sargas-mythic-powers",
+      "manifest": "https://github.com/sargas79/sargas-mythic-powers/releases/latest/download/module.json",
+      "version": "0.2.1",
+      "summary": "Pathfinder Second Edition mythic power, granted by the GM one character at a time.",
+      "compatibility": {
+        "minimum": "14",
+        "verified": "14.368",
+        "maximum": "14"
       }
     }
   ]
