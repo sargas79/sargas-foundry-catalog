@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:54:43.956Z",
+  "generatedAt": "2026-10-23T11:40:50.621Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -207,7 +207,7 @@
       "name": "Sargas PF2e GM Screen",
       "repo": "https://github.com/sargas79/sargas-PF2E-gmscreen",
       "manifest": "https://github.com/sargas79/sargas-PF2E-gmscreen/releases/latest/download/module.json",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "summary": "An interactive GM screen for Pathfinder 2e Remaster: rules reference, live party overview, and treasure & loot tools.",
       "compatibility": {
         "minimum": "14.361",
