@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:40:50.621Z",
+  "generatedAt": "2026-10-25T11:32:15.379Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -62,7 +62,7 @@
       "name": "Sargas Investigation Board",
       "repo": "https://github.com/sargas79/sargas-investigation-board",
       "manifest": "https://github.com/sargas79/sargas-investigation-board/releases/latest/download/module.json",
-      "version": "1.4.0",
+      "version": "1.5.1",
       "summary": "A collaborative pinboard where players pin clues and string them together to work cases as a party.",
       "compatibility": {
         "minimum": "14",
