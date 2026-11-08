@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:32:15.379Z",
+  "generatedAt": "2026-11-08T13:26:43.630Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -36,7 +36,7 @@
       "name": "Sargas Through the Ages",
       "repo": "https://github.com/sargas79/sargas-through-the-ages",
       "manifest": "https://github.com/sargas79/sargas-through-the-ages/releases/latest/download/module.json",
-      "version": "3.4.1",
+      "version": "3.4.2",
       "summary": "A GM-managed custom world calendar with campaign notes and an expandable timeline of Ages and events.",
       "compatibility": {
         "minimum": "14.366",
@@ -49,7 +49,7 @@
       "name": "Sargas Encounter Builder",
       "repo": "https://github.com/sargas79/sargas-encounter-builder",
       "manifest": "https://github.com/sargas79/sargas-encounter-builder/releases/latest/download/module.json",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "summary": "A Pathfinder 2e GM workspace for party profiles, XP budgets, creature browsing and balanced encounter generation.",
       "compatibility": {
         "minimum": "14",
