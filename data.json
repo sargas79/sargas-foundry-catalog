@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:26:43.630Z",
+  "generatedAt": "2026-11-09T16:22:39.714Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -193,7 +193,7 @@
       "name": "Sargas - Mythic Powers",
       "repo": "https://github.com/sargas79/sargas-mythic-powers",
       "manifest": "https://github.com/sargas79/sargas-mythic-powers/releases/latest/download/module.json",
-      "version": "0.2.1",
+      "version": "0.3.0",
       "summary": "Pathfinder Second Edition mythic power, granted by the GM one character at a time.",
       "compatibility": {
         "minimum": "14",
