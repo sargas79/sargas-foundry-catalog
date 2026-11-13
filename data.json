@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:22:39.714Z",
+  "generatedAt": "2026-11-13T14:37:06.164Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -207,11 +207,25 @@
       "name": "Sargas PF2e GM Screen",
       "repo": "https://github.com/sargas79/sargas-PF2E-gmscreen",
       "manifest": "https://github.com/sargas79/sargas-PF2E-gmscreen/releases/latest/download/module.json",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "summary": "An interactive GM screen for Pathfinder 2e Remaster: rules reference, live party overview, and treasure & loot tools.",
       "compatibility": {
         "minimum": "14.361",
         "verified": "14",
+        "maximum": "14"
+      }
+    },
+    {
+      "kind": "module",
+      "id": "sf2e-spell-chips",
+      "name": "SF2e Spell Chips",
+      "repo": "https://github.com/sargas79/sargas-starfinder-spellchip",
+      "manifest": "https://github.com/sargas79/sargas-starfinder-spellchip/releases/latest/download/module.json",
+      "version": "0.1.0",
+      "summary": "Working spell chips for the Starfinder Second Edition system: create them from spells, install them in a comm unit or computer, cast once per day and overclock for a second use.",
+      "compatibility": {
+        "minimum": "14.361",
+        "verified": "14.370",
         "maximum": "14"
       }
     }
