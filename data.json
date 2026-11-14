@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T14:37:06.164Z",
+  "generatedAt": "2026-11-14T13:33:11.484Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -203,11 +203,24 @@
     },
     {
       "kind": "module",
+      "id": "sargas-pf2-creature-images",
+      "name": "Sargas PF2e Creature Images",
+      "repo": "https://github.com/sargas79/sargas-pf2-creature-images",
+      "manifest": "https://github.com/sargas79/sargas-pf2-creature-images/releases/latest/download/module.json",
+      "version": "0.3.1",
+      "summary": "Replaces default PF2e creature portraits and tokens with Demiplane Nexus art stored locally in this module.",
+      "compatibility": {
+        "minimum": "14",
+        "verified": "14"
+      }
+    },
+    {
+      "kind": "module",
       "id": "sargas-pf2e-gmscreen",
       "name": "Sargas PF2e GM Screen",
       "repo": "https://github.com/sargas79/sargas-PF2E-gmscreen",
       "manifest": "https://github.com/sargas79/sargas-PF2E-gmscreen/releases/latest/download/module.json",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "summary": "An interactive GM screen for Pathfinder 2e Remaster: rules reference, live party overview, and treasure & loot tools.",
       "compatibility": {
         "minimum": "14.361",
