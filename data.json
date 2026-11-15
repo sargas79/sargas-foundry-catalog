@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:33:11.484Z",
+  "generatedAt": "2026-11-15T13:57:17.434Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -209,6 +209,19 @@
       "manifest": "https://github.com/sargas79/sargas-pf2-creature-images/releases/latest/download/module.json",
       "version": "0.3.1",
       "summary": "Replaces default PF2e creature portraits and tokens with Demiplane Nexus art stored locally in this module.",
+      "compatibility": {
+        "minimum": "14",
+        "verified": "14"
+      }
+    },
+    {
+      "kind": "module",
+      "id": "sargas-pf2e-formidable-forms",
+      "name": "Sargas PF2e Formidable Forms",
+      "repo": "https://github.com/sargas79/sargas-pf2e-formidable-forms",
+      "manifest": "https://github.com/sargas79/sargas-pf2e-formidable-forms/releases/latest/download/module.json",
+      "version": "0.1.0",
+      "summary": "Pick a battle form when the spell is cast.",
       "compatibility": {
         "minimum": "14",
         "verified": "14"
