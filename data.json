@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:36:39.509Z",
+  "generatedAt": "2026-11-23T02:42:59.882Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -110,11 +110,11 @@
     },
     {
       "kind": "module",
-      "id": "compendium-manager",
+      "id": "sargas-compendium-manager",
       "name": "Sargas Compendium Manager",
       "repo": "https://github.com/sargas79/sargas-compendium-manager",
       "manifest": "https://github.com/sargas79/sargas-compendium-manager/releases/latest/download/module.json",
-      "version": "1.0.1",
+      "version": "2.1.1",
       "summary": "Shares one compendium library between two Pathfinder 2e worlds on the same Foundry installation.",
       "compatibility": {
         "minimum": "14",
@@ -203,6 +203,19 @@
     },
     {
       "kind": "module",
+      "id": "sargas-affixer",
+      "name": "Sargas Affixer",
+      "repo": "https://github.com/sargas79/sargas-afixer",
+      "manifest": "https://github.com/sargas79/sargas-afixer/releases/latest/download/module.json",
+      "version": "0.1.0",
+      "summary": "Affix spellhearts to armor and weapons in Pathfinder 2e.",
+      "compatibility": {
+        "minimum": "14",
+        "verified": "14.370"
+      }
+    },
+    {
+      "kind": "module",
       "id": "sargas-pf2-creature-images",
       "name": "Sargas PF2e Creature Images",
       "repo": "https://github.com/sargas79/sargas-pf2-creature-images",
@@ -247,7 +260,7 @@
       "name": "Sargas Trapzors",
       "repo": "https://github.com/sargas79/sargas-trapzors",
       "manifest": "https://github.com/sargas79/sargas-trapzors/releases/latest/download/module.json",
-      "version": "0.3.0",
+      "version": "0.4.2",
       "summary": "Region-based traps for Foundry VTT v14: movement triggers, GM-confirmed effects and optional detection.",
       "compatibility": {
         "minimum": "14.361",
