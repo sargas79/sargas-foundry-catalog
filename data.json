@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:42:59.882Z",
+  "generatedAt": "2026-11-25T03:10:51.104Z",
   "owner": "sargas79",
   "systems": [
     {
@@ -252,6 +252,19 @@
         "minimum": "14.361",
         "verified": "14",
         "maximum": "14"
+      }
+    },
+    {
+      "kind": "module",
+      "id": "sargas-soundtrack",
+      "name": "Sargas Soundtrack",
+      "repo": "https://github.com/sargas79/sargas-soundtrack",
+      "manifest": "https://github.com/sargas79/sargas-soundtrack/releases/latest/download/module.json",
+      "version": "0.1.2",
+      "summary": "Streams the GM's live music into every player's Foundry music channel.",
+      "compatibility": {
+        "minimum": "14.370",
+        "verified": "14.370"
       }
     },
     {
